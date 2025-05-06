@@ -1,0 +1,11 @@
+torch
+transformers
+pandas
+Pillow
+torchvision
+taming-transformers
+transformers
+clip-by-openai
+ftfy
+regex
+pillow
